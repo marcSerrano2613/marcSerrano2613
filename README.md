@@ -1,4 +1,3 @@
-
 <!--
 **marcSerrano2613/marcSerrano2613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/marcSerrano2613/marcSerrano2613/assets/172896515/56535e34-91ab-4220-9af4-35d62af0f4f8" alt="laptop_banner">
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marc+Serrano!;" />
 </h1>
@@ -48,4 +49,5 @@ Here are some ideas to get you started:
   <img alt="snake eating my contributions" src="https://github.com/marcSerrano2613/marcSerrano2613/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
+<img src="https://github.com/marcSerrano2613/marcSerrano2613/assets/172896515/0e24687c-9750-4f1b-a531-b3af17ec6561" alt="Octocat" width="300">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;" />
