@@ -26,22 +26,24 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-# 📊GitHub Stats :
-
+<h2 align="center">📊GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=marcSerrano2613&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcSerrano2613&theme=dracula&hide_border=false" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcSerrano2613&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br>
 </div>
+<br/>
 
-
-## 🏆GitHub Trophies
-![trophies](https://github-trophies.vercel.app/?username=marcSerrano2613&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">🏆GitHub Trophies</h2>
+<div align="center">
+    <img src="https://github-trophies.vercel.app/?username=marcSerrano2613&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
+</div>
 
 ---
 [![visits](https://visitcount.itsvg.in/api?id=marcSerrano2613&icon=9&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-## My contributions
+<h2 align="center">🐍 My contributions 🐍</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/marcSerrano2613/marcSerrano2613/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
