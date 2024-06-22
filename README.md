@@ -18,6 +18,10 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marc+Serrano!;" />
 </h1>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=marcSerrano2613&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -39,10 +43,6 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://github-trophies.vercel.app/?username=marcSerrano2613&theme=discord&no-frame=false&no-bg=false&margin-w=4" />
 </div>
-
----
-[![visits](https://visitcount.itsvg.in/api?id=marcSerrano2613&icon=9&color=0)](https://visitcount.itsvg.in)
-<br/>
 
 <h2 align="center">🐍 My contributions 🐍</h2>
 <div align="center">
