@@ -18,9 +18,8 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marc+Serrano!;" />
 </h1>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=marcSerrano2613&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a>
+![Visit Count](https://visitcount.itsvg.in/api?id=marcSerrano2613&label=Profile%20Views&color=0&icon=5&pretty=true) &nbsp; ![GitHub followers](https://img.shields.io/github/followers/marcSerrano2613?logo=GitHub&style=for-the-badge) 
+&nbsp; ![GitHub Stars](https://img.shields.io/github/stars/marcSerrano2613?logo=github&style=for-the-badge)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
