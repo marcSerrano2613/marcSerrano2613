@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,figma,r,angular,blender,ansible,matlab" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,c,androidstudio,arduino,haskell,php" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,figma,r,angular,blender,ansible,matlab,php" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,c,androidstudio,arduino,haskell" /><br>
 </div>
 <br/>
 
