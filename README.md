@@ -29,6 +29,28 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
+## New projects 🚀
+<table>
+    <tr>
+        <td width="50%">
+            <h3 align="center">ansibleAudit</h3>
+            <div align="center">
+                <a href="https://github.com/ansibleAudit/ansibleAudit" target="_blank"><img src="https://github.com/user-attachments/assets/8b26e08c-b298-49c6-aa0e-9d77a7947a37" width="400" alt="ansibleAudit"></a>
+                <p>
+                    <a href="https://github.com/ansibleAudit/ansibleAudit" target="_blank">
+                        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+                    </a>
+                </p>
+                <p><strong>ansibleAudit</strong> is an open source tool designed to perform automated audits of system configurations using Ansible.</p>
+            </div>                                                                          
+        </td>                                                            
+</table>                                                                                 
+<br>
+                                                                                                                                                              
+</table>                                                                                 
+</div>
+<br>
+
 <h2 align="center">📊GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=marcSerrano2613&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
